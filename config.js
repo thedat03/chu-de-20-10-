@@ -2,7 +2,7 @@ const nameGirl = 'Chị';
 const giftUrl = 'https://www.facebook.com/phahoai.vua.718';
 const eventName = 'Chúc Mừng 20-10';
 const titleCard = 'Nguyễn Thị Phượng';
-const contentCard = 'Nhân dịp 20/10, chúc chị gái yêu dấu của em luôn mạnh khỏe, giữ nụ cười trên môi và sớm tìm được chân ái nhé. Tặng chị 1 phổi.💘';
+const contentCard = 'Nhân dịp 20/10, chúc chị luôn mạnh khỏe, giữ nụ cười trên môi và sớm tìm được chân ái nhé. Tặng chị 1 phổi.💘';
 
 // phần dưới dành cho các bạn biết code, nếu muốn chỉnh ảnh đơn giản với base64
 // Cần hỗ trợ hãy liên hệ: 
