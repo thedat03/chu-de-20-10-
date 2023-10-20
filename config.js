@@ -1,5 +1,5 @@
 const nameGirl = 'Chị';
-const giftUrl = 'https://www.facebook.com/phahoai.vua.718';
+const giftUrl = '';
 const eventName = 'Chúc Mừng 20-10';
 const titleCard = 'Nguyễn Thị Phượng';
 const contentCard = 'Nhân dịp 20/10, chúc chị luôn mạnh khỏe, giữ nụ cười trên môi và sớm tìm được chân ái nhé. Tặng chị 1 phổi.💘';
